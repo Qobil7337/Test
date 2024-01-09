@@ -63,8 +63,7 @@
               "browserTarget": "test:build:production"
             },
             "development": {
-              "browserTarget": "test:build:development",
-              "port": 8080
+              "browserTarget": "test:build:development"
             }
           },
           "defaultConfiguration": "development"
